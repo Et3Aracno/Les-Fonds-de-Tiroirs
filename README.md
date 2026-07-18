@@ -1,5 +1,5 @@
-# 🎮 It’s Not a Bug, It’s a Feature — Game Jam Project  
-## 🧩 Présentation  
+#  It’s Not a Bug, It’s a Feature — Game Jam Project  
+##  Présentation  
   
 Ce projet est un jeu développé en 38h dans le cadre d’une Game Jam, par une équipe de 6 développeurs.  
 Le thème imposé était : “It’s not a bug, it’s a feature”.  
@@ -8,7 +8,7 @@ Le joueur incarne un personnage qui doit traverser 6 niveaux volontairement bugu
   
 Le jeu a été réalisé sous Unreal Engine 5.6.1, dans un style humoristique et volontairement chaotique, mais pensé pour offrir une progression cohérente et pleine de surprises.  
   
-## 👥 Équipe  
+##  Équipe  
   
 Développé par une équipe de 6 créateurs passionnés, dont :  
    
@@ -24,7 +24,7 @@ Développé par une équipe de 6 créateurs passionnés, dont :
   
 **Killian Pomes** - **Gameplay Programmer**   
   
-## 🖥️ Environnement et Prérequis  
+##  Environnement et Prérequis  
   
 Moteur : Unreal Engine 5.6.1  
   
@@ -34,8 +34,8 @@ Plateforme : Windows
   
 Audio : Bruitages faits main / soundboard  
 
-## ⚙️ Fonctionnalités principales  
-### 🐛 1. 6 niveaux entièrement “bugués”  
+##  Fonctionnalités principales  
+###  1. 6 niveaux entièrement “bugués”  
   
 Chaque niveau exploite un bug comme mécanique de gameplay :  
   
@@ -49,11 +49,11 @@ triggers cachés,
   
 checkpoints étrangement capricieux.  
   
-### 🤖 2. Un narrateur omniprésent  
+###  2. Un narrateur omniprésent  
     
 Un narrateur accompagne le joueur tout au long de l’aventure ; il joue un rôle central dans l’ambiance et l’humour du jeu.  
   
-### 🧩 3. Gameplay varié  
+###  3. Gameplay varié  
   
 Les niveaux alternent entre :  
   
@@ -67,7 +67,7 @@ défis basés sur des comportements "buggés".
   
 Chaque niveau introduit une nouvelle idée basée sur le thème.  
   
-### 🔊 4. Sound design artisanal  
+###  4. Sound design artisanal  
   
 Les bruitages sont :  
   
@@ -79,7 +79,7 @@ ou produits via un soundboard improvisé.
   
 Le résultat : un style sonore volontairement décalé et hilarant.  
   
-### 📦 5. Ambiance Game Jam  
+###  5. Ambiance Game Jam  
   
 rythme rapide,  
   
@@ -89,7 +89,7 @@ direction artistique volontairement simple,
   
 priorisation du fun avant la perfection.  
   
-## 🧠 Objectifs du projet  
+##  Objectifs du projet  
   
 Créer une expérience amusante en un temps limité.  
   
@@ -101,7 +101,7 @@ Prototyper rapidement des mécaniques absurdes mais cohérentes.
   
 Améliorer notre maîtrise du level design et nos compétences sur UE.
   
-## 🧰 Technologies & Concepts  
+##  Technologies & Concepts  
   
 Unreal Engine 5.6.1  
   
@@ -116,7 +116,7 @@ Soundboard / bruitages manuels
 Narrative scripting  
   
 
-## 📦 Build
+## Build
 
 Projet Unreal Engine 5.6.1
 
